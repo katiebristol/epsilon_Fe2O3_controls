@@ -5,4 +5,4 @@ A Jupyter notebook for Exploratory Data Analysis using machine learning techniqu
 
 ## Purpose
 
-The purpose of this notebook is to explore which factors may be controlling the formation of epsilon Fe2O3 in North American Clinker Deposits. To do this, I used machine learning techniques (Principal component analysis, K-means clustering, and a random forest classifier) via the scikit-learn library.
+The purpose of this notebook is to explore which factors may be controlling the formation of ε-Fe2O3 in North American Clinker Deposits. To do this, I used machine learning techniques (Principal component analysis, K-means clustering, and a random forest classifier) via the scikit-learn library.
