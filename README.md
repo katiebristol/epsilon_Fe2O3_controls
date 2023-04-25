@@ -12,6 +12,9 @@ See an interactive version of the notebbok below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katiebristol/epsilon_Fe2O3_controls/HEAD)
 
+Simply launch the binder (be patient while it loads), select the notebook, and run the cells. 
+Markdown has been added to the notebbok to walk you through the results.
+
 ## Data 
 
-The data used in this exercise is a combination of previously published data (Sprain et al., 2021) and unpublished data (manuscript currently in preparation). 
+The data used in this exercise is a combination of previously published data (Sprain et al., 2021) and unpublished data. The unpublished data is part of a manuscript that is currently in preparation (unrelated to this exercise). 
