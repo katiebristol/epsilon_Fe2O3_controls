@@ -8,7 +8,7 @@ A Jupyter notebook for Exploratory Data Analysis using machine learning techniqu
 The purpose of this notebook is to explore which factors may be controlling the formation of ε-Fe2O3 in North American Clinker Deposits. To do this, I used machine learning techniques (Principal component analysis, K-means clustering, and a random forest classifier) via the scikit-learn library.
 
 ## How to use
-See an interactive version of the notebbok below: 
+See an interactive version of the notebook below: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katiebristol/epsilon_Fe2O3_controls/HEAD)
 
