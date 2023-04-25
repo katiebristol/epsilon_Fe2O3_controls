@@ -9,6 +9,7 @@ The purpose of this notebook is to explore which factors may be controlling the 
 
 ## How to use
 See an interactive version of the notebbok below: 
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katiebristol/epsilon_Fe2O3_controls/HEAD)
 
 ## Data 
