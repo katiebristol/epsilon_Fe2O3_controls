@@ -15,6 +15,8 @@ See an interactive version of the notebook below:
 Simply launch the binder (be patient while it loads), select the notebook, and run the cells. 
 Markdown has been added to the notebbok to walk you through the results.
 
+Alternatively, you can view the code and outputs of the notebook here on GitHub.
+
 ## Data 
 
 The data used in this exercise is a combination of previously published data (Sprain et al., 2021) and unpublished data. The unpublished data is part of a manuscript that is currently in preparation (unrelated to this exercise). 
